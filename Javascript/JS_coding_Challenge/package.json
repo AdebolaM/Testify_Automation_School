@@ -1,0 +1,11 @@
+{
+  "name": "js_coding_challenge",
+  "version": "1.0.0",
+  "description": "Node package for coding Challenge",
+  "main": "Challenge1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adebola Oritu",
+  "license": "ISC"
+}
