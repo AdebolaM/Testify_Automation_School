@@ -1,0 +1,23 @@
+{
+    "Date": "Fri, 08 Mar 2024 01:21:32 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "84",
+    "Connection": "keep-alive",
+    "CF-Ray": "860f02517d507779-LHR",
+    "CF-Cache-Status": "DYNAMIC",
+    "Access-Control-Allow-Origin": "https://public-api-companies.sendinblue.com,*",
+    "Cache-Control": "no-cache",
+    "access-control-allow-credentials": "true,true",
+    "access-control-allow-headers": "Content-Type, Content-Disposition, Authorization, Origin, Accept,*",
+    "access-control-allow-methods": "POST, GET, OPTIONS, PUT, DELETE, PATCH,PUT, POST, GET, DELETE, PATCH, OPTIONS",
+    "access-control-request-headers": "*",
+    "cf-apo-via": "origin,host",
+    "sib-request-id": "f2cab349-b12e-9b23-956b-b88b11172a2c",
+    "x-content-type-options": "nosniff",
+    "x-envoy-upstream-service-time": "40",
+    "x-sib-server": "BREVO-srv-pr-online-rancher-worker-33",
+    "x-xss-protection": "1",
+    "Set-Cookie": "__cf_bm=RDnADdXdPbYol9_kkIlpH26vtFKeqlWKaoJVddItfyk-1709860892-1.0.1.1-iqC73Vhsx_dLo1phg2ADdHU9hOFrgs5vc02xZ0SDPkE3H2DH0WFlMrccughwCC4W9cvdruqRr3w74hHD28BlRQ; path=/; expires=Fri, 08-Mar-24 01:51:32 GMT; domain=.sendinblue.com; HttpOnly; Secure; SameSite=None",
+    "Vary": "Accept-Encoding",
+    "Server": "cloudflare"
+}

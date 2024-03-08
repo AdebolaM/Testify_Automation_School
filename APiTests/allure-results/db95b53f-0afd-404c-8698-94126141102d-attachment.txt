@@ -1,0 +1,8 @@
+{
+  "email": "Emily.Smith@yahoo.com",
+  "attributes": {
+    "FNAME": "{{first_name}}"
+  },
+  "emailBlacklisted": false,
+  "smsBlacklisted": false
+}

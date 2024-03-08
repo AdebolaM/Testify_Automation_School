@@ -1,0 +1,1 @@
+{"folders":[{"id":3,"name":"Wordpress Contacts","uniqueSubscribers":0,"totalSubscribers":0,"totalBlacklisted":0},{"id":1,"name":"Your first folder","uniqueSubscribers":1,"totalSubscribers":0,"totalBlacklisted":0}],"count":2}

@@ -1,0 +1,2 @@
+level: log, messages: Emily.Smith@yahoo.com
+level: log, messages: Emily

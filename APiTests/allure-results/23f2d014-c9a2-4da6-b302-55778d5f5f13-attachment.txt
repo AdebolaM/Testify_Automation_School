@@ -1,0 +1,1 @@
+{"id":20,"status":"completed","name":"SEARCH_EXPORT_USERS","export_url":"https://s3.eu-west-1.amazonaws.com/api-export.sendinblue.com/upload/7332871-65ea682fa1c362883f89919e-ZEXetJ.csv"}

@@ -1,0 +1,13 @@
+{
+    "items": [],
+    "pager": {
+        "current": 1,
+        "limit": 50,
+        "from": 0,
+        "to": 50,
+        "count": 0,
+        "total": 0,
+        "max": 0,
+        "totalStoredResults": 0
+    }
+}

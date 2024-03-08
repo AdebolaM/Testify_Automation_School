@@ -1,0 +1,1 @@
+{"code":"invalid_parameter","message":"Campaign id is not valid"}

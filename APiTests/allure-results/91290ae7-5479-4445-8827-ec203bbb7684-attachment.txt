@@ -1,0 +1,4 @@
+{
+  "imageUrl": "https://guinnessworldrecords.com/Images/Mali-nonuplets-all-together-on-a-sofa_tcm25-730591.jpg",
+  "name": "nature.jpg"
+}

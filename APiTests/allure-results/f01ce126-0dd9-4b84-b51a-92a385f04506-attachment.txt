@@ -1,0 +1,6 @@
+{
+  "value": "COUNT[BLACKLISTED,BLACKLISTED,<,NOW()]",
+  "field_key": "lastname"
+
+
+}

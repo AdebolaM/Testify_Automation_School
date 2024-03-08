@@ -1,0 +1,1 @@
+{"code":"account_under_validation","message":"Your account is under validation. You can not create another campaign."}

@@ -1,0 +1,10 @@
+{
+  "name": "Michael LCC",
+  "attributes": {
+    "domain": "https:+Michael LCC+.com",
+    "industry": "Fabric",
+    "phone_number": "08089182353"
+    
+  },
+  "countryCode": {{CountryCode}}
+}
