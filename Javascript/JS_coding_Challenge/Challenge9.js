@@ -6,17 +6,10 @@ function vowelcount(inputstring) {
     const vowels = 'aeiou'
     for (let start=0; start < inputstring.length; start=start+1)
     {if (vowels.includes(inputstring[start])) {
-       numberofvowel++
-        }
-
-
-        
+       numberofvowel++    }      
 }
 console.log (numberofvowel)
     }
     const string = "adebola is learning javascript"
 vowelcount(string)
-//const count = vowelcount.length
 
-
-   // console.log (count)
