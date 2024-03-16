@@ -21,7 +21,7 @@ public class Task8 {
         System.out.println("Please input 'Yes' to continue");
         String Continue = SIcalculator.next();
         double Totalamount = Startamount + Interest;
-        System.out.println("Your total amount to pay back is" + Totalamount);
+        System.out.println("Your total amount to pay back is " + Totalamount);
 
 
     
